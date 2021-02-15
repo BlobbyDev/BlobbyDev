@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dinav I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
+I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
 
 ### My bot
 
