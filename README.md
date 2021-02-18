@@ -26,33 +26,9 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 
 [Add it to your discord server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for it](https://top.gg/bot/786209866946838528/vote) | [Join the discord server](https://discord.gg/RWSEj6JrjJ)
 
-### My social medias
-
-[![Twitter][1.1]][1]
-[![Discord][2.1]][2]
-[![Github][6.1]][6]
-[![Instagram][7.1]][7]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
-[2.1]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-32.png (Discord)
-[6.1]: http://i.imgur.com/0o48UoR.png (Github)
-[7.1]: https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/Dinav69
-[2]: https://discord.gg/RWSEj6JrjJ
-[6]: http://www.github.com/Dinav69
-[7]: https://www.instagram.com/dinav_69/
-
-
+### My social medias 
+[Discord](https://discord.gg/RWSEj6JrjJ) | [Twitter](https://twitter.com/Dinav69) | [Instagram](https://www.instagram.com/dinav_69/) 
+ 
 <!--
 **Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
