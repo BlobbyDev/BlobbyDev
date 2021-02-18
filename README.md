@@ -2,6 +2,8 @@
 
 I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!! Join my Discord sever by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
+![Profile Views](https://rushter.com/counter.svg)
+
 ### My Stats
 
 <p align="center">
