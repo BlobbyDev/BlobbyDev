@@ -28,7 +28,7 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 
 ### My social medias
 
-[```Instagram```](https://www.instagram.com/dinav_69/) | [```Twitter```](https://twitter.com/Dinav69) | [```Twitch lol I don't stream```](https://www.twitch.tv/dinav69) | [```Discord```](https://discord.gg/RWSEj6JrjJ)
+[Instagram](https://www.instagram.com/dinav_69/) | [Twitter](https://twitter.com/Dinav69) | [Twitch lol I don't stream](https://www.twitch.tv/dinav69) | [Discord](https://discord.gg/RWSEj6JrjJ)
 
 <!--
 **Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
