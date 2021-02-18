@@ -42,7 +42,7 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 [1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
 [2.1]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-32.png (Discord)
 [6.1]: http://i.imgur.com/0o48UoR.png (Github)
-[7.1]: file:///C:/Users/user/Downloads/5ecec78673e4440004f09e77.png (Instagram)
+[7.1]: https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
