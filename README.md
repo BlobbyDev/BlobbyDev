@@ -2,6 +2,16 @@
 
 I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
 
+
+<p align="center">
+  
+![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
+
+![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
+
+</p>
+
+
 ### My bot
 
 <a href="https://top.gg/bot/786209866946838528">
