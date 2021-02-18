@@ -27,8 +27,8 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 [Add it to your discord server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for it](https://top.gg/bot/786209866946838528/vote) | [Join the discord server](https://discord.gg/RWSEj6JrjJ)
 
 ### My social medias 
-[![Twitter][1.1]][1]
-[![Discord][2.1]][2]
+[![https://discord.com/channels/785447323156742204/809031839032672327/812004520581267487][1.1]][1]
+[![https://discord.com/channels/785447323156742204/809031839032672327/812004828854353921][2.1]][2]
 
 
 
@@ -37,8 +37,7 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 
 <!-- icons with padding -->
 
-[1.1]: https://discord.com/channels/785447323156742204/809031839032672327/812004520581267487
-[2.1]: https://discord.com/channels/785447323156742204/809031839032672327/812004828854353921
+
 
 
 <!-- links to your social media accounts -->
