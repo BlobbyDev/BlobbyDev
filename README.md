@@ -28,7 +28,30 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 
 ### My social medias
 
-[Instagram](https://www.instagram.com/dinav_69/) | [Twitter](https://twitter.com/Dinav69) | [Twitch lol I don't stream](https://www.twitch.tv/dinav69) | [Discord](https://discord.gg/RWSEj6JrjJ) | [OnlyFans](https://www.youtube.com/watch?v=o_wDiOEmI3U)
+[![Twitter][1.1]][1]
+[![Discord][2.1]][2]
+[![Github][6.1]][6]
+[![Instagram][7.1]][7]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
+[2.1]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-32.png (Discord)
+[6.1]: http://i.imgur.com/0o48UoR.png (Github)
+[7.1]: file:///C:/Users/user/Downloads/5ecec78673e4440004f09e77.png
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/Dinav69
+[2]: https://discord.gg/RWSEj6JrjJ
+[6]: http://www.github.com/Dinav69
+[7]: https://www.instagram.com/dinav_69/
+
 
 <!--
 **Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
