@@ -27,7 +27,25 @@ Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 [Add it to your discord server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for it](https://top.gg/bot/786209866946838528/vote) | [Join the discord server](https://discord.gg/RWSEj6JrjJ)
 
 ### My social medias 
-[Discord](https://discord.gg/RWSEj6JrjJ) | [Twitter](https://twitter.com/Dinav69) | [Instagram](https://www.instagram.com/dinav_69/) 
+[![Twitter][1.1]][1]
+[![Discord][2.1]][2]
+
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: https://discord.com/channels/785447323156742204/809031839032672327/812004520581267487
+[2.1]: https://discord.com/channels/785447323156742204/809031839032672327/812004828854353921
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/Dinav69
+[2]: https://discord.gg/RWSEj6JrjJ
  
 <!--
 **Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
