@@ -4,7 +4,7 @@ I'm Blob I make discord bots and other various projects also I play a lot of min
 
 Server Name: [Blob Development](https://discord.gg/RWSEj6JrjJ)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
+![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
 
 ### My Stats
