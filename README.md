@@ -5,18 +5,9 @@ I'm Blob I make discord bots and other various projects also I play a lot of min
 <a href="https://discord.gg/RWSEj6JrjJ">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-[![Discord Server][chat]][server]
-
 <a href="https://twitter.com/Dinav69">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
- 
-[![Discord Server][chat]][server]
-
-[server]: https://discord.gg/RWSEj6JrjJ
-[chat]: https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge
-
-
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
 
