@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
+I'm Dinav I'm a blob lover I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
 
 <a href="https://discord.gg/RWSEj6JrjJ">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
