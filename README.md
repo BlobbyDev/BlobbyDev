@@ -2,7 +2,7 @@
 
 I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!! Join my Discord sever by [clicking here](https://discord.gg/RWSEj6JrjJ) 
 
-[![Discord](https://img.shields.io/discord/790214708694089739?color=7289DA&label=Discord%20Server&style=for-the-badge&logo=discord)](https://dsc.gg/blob)
+[![Discord](https://img.shields.io/discord/785447323156742204?color=7289DA&label=Discord%20Server&style=for-the-badge&logo=discord)](https://dsc.gg/blob)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
