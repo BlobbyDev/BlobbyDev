@@ -5,7 +5,7 @@ I'm Blob I make discord bots and other various projects also I play a lot of min
 [![Discord Server][chat]][server]
 
 [server]: https://discord.gg/RWSEj6JrjJ
-[chat]: https://discord.com/api/guilds/785447323156742204/embed.png?style=shield
+[chat]: https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge
 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
