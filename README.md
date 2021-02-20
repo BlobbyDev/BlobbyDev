@@ -8,6 +8,7 @@ I'm Blob I make discord bots and other various projects also I play a lot of min
 <a href="https://twitter.com/Dinav69">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
 
