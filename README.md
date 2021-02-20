@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!! Join my Discord sever by [clicking here](https://discord.gg/RWSEj6JrjJ)
+I'm Blob I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
+<a href="https://discord.gg/RWSEj6JrjJ">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+[![Discord Server][chat]][server]
 
+<a href="https://twitter.com/Dinav69">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+ 
 [![Discord Server][chat]][server]
 
 [server]: https://discord.gg/RWSEj6JrjJ
@@ -30,15 +38,7 @@ I'm Blob I make discord bots and other various projects also I play a lot of min
 
 [Add it to your discord server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for it](https://top.gg/bot/786209866946838528/vote) | [Join the discord server](https://discord.gg/RWSEj6JrjJ)
 
-### My Social
 
-<a href="https://discord.gg/RWSEj6JrjJ">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Dinav69">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
- 
 <!--
 **Dinav69/dinav69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
