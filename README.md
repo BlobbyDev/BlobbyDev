@@ -14,6 +14,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.instagram.com/dinav_69/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
 </a>
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
 
