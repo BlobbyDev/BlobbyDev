@@ -23,8 +23,6 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 <img src="https://komarev.com/ghpvc/?username=Dinav69&color=yellow" width="30px">
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
-
 ## My Stats
 
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
