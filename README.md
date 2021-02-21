@@ -47,7 +47,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://discord.js.org/#/">
   <img align="left" alt="DiscordJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" />
 </a>
-[![Image](https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png =28x28)](https://git-scm.com/)
+[![image](https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png =28x28)](https://git-scm.com/)
 
 ## Check Out my Music Bot:
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
