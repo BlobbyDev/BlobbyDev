@@ -42,13 +42,12 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 </a>
 
 ### My Stats
-<p align="center">
   
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
 
 ![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
 
-</p>
+
 
 ## Check Out my Music Bot:
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
