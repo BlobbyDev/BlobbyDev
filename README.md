@@ -28,9 +28,10 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 ### My bot
 
-<a href="https://top.gg/bot/786209866946838528">
-    <img src="https://top.gg/api/widget/786209866946838528.svg" alt="DJ Blob" />
-</a>
+
+[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/owner/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
+
+[![Discord Bots](https://top.gg/api/widget/786209866946838528.svg)](https://top.gg/bot/786209866946838528)
 
 [Add it to your discord server](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=36732224&scope=bot) | [Vote for it](https://top.gg/bot/786209866946838528/vote) | [Join the discord server](https://discord.gg/RWSEj6JrjJ)
 
