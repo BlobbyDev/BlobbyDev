@@ -42,7 +42,6 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 </a>
 
 ### My Stats
-
 <p align="center">
   
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
