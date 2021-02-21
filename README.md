@@ -30,7 +30,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 ![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
 
 
-## Langauges and tools that I use
+## Langauges and tools that I mainly use
 
 <a href="https://www.javascript.com/">
   <img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
