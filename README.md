@@ -51,7 +51,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="Git" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 </a>
 
-#### These are the tools are languages that I mainly use
+![Logo](https://cdn.discordapp.com/attachments/809031839032672327/813049119504597042/553396485316804608.png)
 
 ## Check Out my Music Bot:
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
