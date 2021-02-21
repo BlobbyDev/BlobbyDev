@@ -24,7 +24,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
-### Tools and Languages I use
+### Tools and Languages I use :-
 <a href="https://www.javascript.com/">
   <img align="left" alt="JavaScript" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
 </a>
@@ -40,6 +40,10 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.jetbrains.com/idea/">
   <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813043845893718056/1024px-IntelliJ_IDEA_Logo.svg.png" />
 </a>
+
+
+
+
 
 ### My Stats
   
