@@ -24,21 +24,6 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
-### Tools and Languages I use :-
-
-<a href="https://www.javascript.com/">
-  <img align="left" alt="JavaScript" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
-</a>
-<a href="https://nodejs.org/en/">
-  <img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042483814596618/777960436187398168.png" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" />
-</a>
-<a href="https://www.jetbrains.com/idea/">
-  <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813043845893718056/1024px-IntelliJ_IDEA_Logo.svg.png" />
-</a>
-
 ## My Stats
 
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
