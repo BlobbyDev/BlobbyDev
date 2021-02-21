@@ -39,7 +39,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813043845893718056/1024px-IntelliJ_IDEA_Logo.svg.png" />
 </a>
 
-### My Stats
+## My Stats
 
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
 
