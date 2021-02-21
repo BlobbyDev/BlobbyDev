@@ -18,7 +18,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="left" alt="OnlyFans" width="22px" src="https://cdn.discordapp.com/attachments/809031839032672327/813032348190900284/app-icon.png" />
+  <img align="left" alt="OnlyFans" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/813032348190900284/app-icon.png" />
 </a>
 
 
