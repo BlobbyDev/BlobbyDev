@@ -50,13 +50,13 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <img src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" alt="Git" width="28px"/>
 
 ## Check Out my Music Bot:
+[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
+
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
 
 Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
-
-[![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528)
 
 
 
