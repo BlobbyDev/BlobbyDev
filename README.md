@@ -35,6 +35,9 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.javascript.com/">
   <img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img align="left" alt="Type Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813338778059931658/791512440021975062.png" />
+</a>
 <a href="https://nodejs.org/en/">
   <img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" />
 </a>
