@@ -20,9 +20,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
-<img width="1px" src="https://cdn.discordapp.com/attachments/809031839032672327/813049119504597042/553396485316804608.png" />
-
-<img width="23px" src="https://komarev.com/ghpvc/?username=Dinav69&color=yellow" />
+<img width="1px" src="https://komarev.com/ghpvc/?username=Dinav69&color=yellow" />
 
 ## My Stats
 
