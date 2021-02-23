@@ -50,10 +50,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://discord.js.org/#/">
   <img align="left" alt="DiscordJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" />
 </a>
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
-</a>
-<img src="https://cdn.discordapp.com/attachments/809031839032672327/813340090071646258/553396485316804608.png" alt="Blank" width="28px"/>
+[![Git](https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png)](https://git-scm.com/)
 
 ## Check Out my Music Bot:
 Add it to your discord server by [clicking here](https://discord.com/oauth2/authorize?client_id=786209866946838528&permissions=53833024&scope=bot)
