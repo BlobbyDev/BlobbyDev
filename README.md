@@ -56,7 +56,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="HTML" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813716284973907978/html.png" />
 </a>
 <a href="https://www.w3schools.com/css/">
-  <img align="left" alt="CSS" width="26px" src="https://cdn.discordapp.com/attachments/809031839032672327/813716292607148042/PngItem_1985012.png" />
+  <img align="left" alt="CSS" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/813716292607148042/PngItem_1985012.png" />
 </a>
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
