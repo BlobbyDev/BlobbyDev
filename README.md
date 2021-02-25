@@ -55,6 +55,12 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://discord.js.org/#/">
   <img align="left" alt="DiscordJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" />
 </a>
+<a href="https://html.com/">
+  <img align="left" alt="HTML" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495978413490206/813909686449078353.png" />
+</a>
+<a href="https://www.w3schools.com/css/css_intro.asp">
+  <img align="left" alt="CSS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495960231051285/813909685542584321.png" />
+</a>
 <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160">
   <img align="left" alt="C++" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813717836413141102/720003328704249888.png" />
 </a>
