@@ -56,7 +56,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="C++" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813717836413141102/720003328704249888.png" />
 </a>
 <a href="https://www.mongodb.com/">
-  <img align="left" alt="MongoDB" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814491639674437632/download_5.png" />
+  <img align="left" alt="MongoDB" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814492085553201172/dIYPdBiR_400x400.jpg" />
 </a>
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
