@@ -61,6 +61,9 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 <a href="https://www.docker.com/">
   <img align="left" alt="Docker" width="41px" src="https://cdn.discordapp.com/attachments/809031839032672327/814492329133080606/813910634135158784.png" />
 </a>
+<a href="https://redis.io/">
+  <img align="left" alt="Redis" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/814494267053309982/redis-logo-png-transparent.png" />
+</a>
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
 ## Check Out my Music Bot:
