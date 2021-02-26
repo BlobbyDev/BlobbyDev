@@ -23,7 +23,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow)
 
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581)
+![Discord (Status)](https://img.shields.io/endpoint?label=Now&url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581)
 ![Spotify](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/686951405046464534&color=1ED45F)
 ![Playing](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/686951405046464534)
 
