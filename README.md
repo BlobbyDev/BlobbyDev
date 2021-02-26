@@ -25,6 +25,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 
 [![Discord](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)](https://discord.gg/RWSEj6JrjJ)
 
+![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/686951405046464534?simple=true&logo=discord&logoColor=white&color=43B581)
 ## My Stats
 
 ![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
