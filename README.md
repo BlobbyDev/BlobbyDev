@@ -26,6 +26,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
 ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581)
 ![Spotify](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/686951405046464534&color=1ED45F)
 ![Playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/686951405046464534)
+![Visual Studio Code](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/190916650143318016)
 
 [![Discord(Server)](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)](https://discord.gg/RWSEj6JrjJ)
 
