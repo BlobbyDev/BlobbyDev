@@ -21,7 +21,7 @@ I'm Dinav I'm a blob lover I make discord bots and other various projects also I
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile Visits)
+![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=ProfileVisits)
 
 [![Discord(Server)](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge)](https://discord.gg/RWSEj6JrjJ)
 
