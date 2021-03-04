@@ -82,6 +82,8 @@ Join the support server by [clicking here](https://discord.gg/RWSEj6JrjJ)
 
 Vote for it by [clicking here](https://top.gg/bot/786209866946838528)
 
+Visit the website by [clicking here](https://djblob.gq/)
+
 [![Discord Bots](https://top.gg/api/widget/status/786209866946838528.svg)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/servers/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528) [![Discord Bots](https://top.gg/api/widget/upvotes/786209866946838528.svg?noavatar=true)](https://top.gg/bot/786209866946838528/vote)
 
 <img src="https://cdn.discordapp.com/attachments/809031839032672327/813336762670776350/793067262458331187.gif" width="55px"> <img src="https://cdn.discordapp.com/attachments/809031839032672327/813337182378786826/807468239407284254.gif" width="55px"> <img src="https://cdn.discordapp.com/attachments/809031839032672327/813337199315124224/807468041717415936.gif" width="55px"> <img src="https://cdn.discordapp.com/attachments/809031839032672327/813337220298833920/807468104535244861.gif" width="55px"> <img src="https://cdn.discordapp.com/attachments/809031839032672327/813337233221222440/807468168641118218.gif" width="55px">
