@@ -21,13 +21,13 @@ I'm Blobby I'm a blob lover I make discord bots and other various projects also 
   <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
 </a>
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile-Visits&width=26px)
+![Profile Visits](https://komarev.com/ghpvc/?username=BlobbyDev&color=yellow&label=Profile-Visits&width=26px)
 
 [![Discord(Server)](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/RWSEj6JrjJ)
 
 ## My Stats
 
-![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dinav69&show_icons=true&theme=tokyonight&layout=compact)
+![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlobbyDev&show_icons=true&theme=react)![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BlobbyDev&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Langauges & Tools 
 
