@@ -11,9 +11,6 @@ I'm Blobby I'm a blob lover I make discord bots and other various projects also 
 <a href="https://www.reddit.com/user/BlobbyDev">
   <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<a href="https://www.instagram.com/dinav_69/">
-  <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
-</a>
 <a href="https://open.spotify.com/user/4y38lwzm4zn0vld9nfvnvv5ys">
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
