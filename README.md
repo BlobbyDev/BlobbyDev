@@ -5,10 +5,10 @@ I'm Blobby I'm a blob lover I make discord bots and other various projects also 
 <a href="https://discord.gg/RWSEj6JrjJ">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Dinav69">
+<a href="https://twitter.com/BlobbyDev">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.reddit.com/user/Dinav69">
+<a href="https://www.reddit.com/user/BlobbyDev">
   <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://www.instagram.com/dinav_69/">
