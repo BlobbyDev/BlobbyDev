@@ -22,9 +22,9 @@ I'm Blobby, I make discord bots and other various projects also I play a lot of 
 
 [![Discord(Server)](https://img.shields.io/discord/785447323156742204?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/RWSEj6JrjJ)
 
-<p href="https://discord.gg/RWSEj6JrjJ">
+<a href="https://discord.gg/RWSEj6JrjJ">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/686951405046464534.png" />
-</p>
+</a>
 
 ## My Stats
 
