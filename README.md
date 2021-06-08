@@ -14,9 +14,6 @@ I'm Blobby, I make discord bots and other various projects also I play a lot of 
 <a href="https://open.spotify.com/user/4y38lwzm4zn0vld9nfvnvv5ys">
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="left" alt="OnlyFans" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813033046927343646/8e88ca9a562a39037a9d708810f3de5b.png" />
-</a>
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile-Visits&width=26px)
 
