@@ -23,7 +23,7 @@ I'm Blobby, I make discord bots and other various projects also I play a lot of 
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/686951405046464534.png" />
 </a>
 
-## My Stats
+## Stats
 
 ![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlobbyDev&show_icons=true&theme=react)![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BlobbyDev&show_icons=true&theme=tokyonight&layout=compact)
 
