@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/attachments/809031839032672327/813335528472182814/740595152124510228.gif" width="20px"> Hey There <img src="https://cdn.discordapp.com/attachments/809031839032672327/813335958170632192/796599576240455692.gif" width="20px">
+<img src="https://cdn.discordapp.com/attachments/809031839032672327/813335528472182814/740595152124510228.gif" width="20px"># Hey There <img src="https://cdn.discordapp.com/attachments/809031839032672327/813335958170632192/796599576240455692.gif" width="20px">
 
 I'm Blobby, I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
 
