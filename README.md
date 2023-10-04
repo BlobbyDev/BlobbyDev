@@ -15,8 +15,6 @@ I'm Blobby, I make discord bots and other various projects also I play a lot of 
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/686951405046464534.png" />
 </a>
 
-http://pipedream.com/?via=blobby
-
 
 
 
