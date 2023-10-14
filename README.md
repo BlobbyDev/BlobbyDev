@@ -1,6 +1,6 @@
 # Hey There
 
-I'm Blobby, I make discord bots and other various projects also I play a lot of minecraft too and I'm fastest at typing(lol jk) and I love blobs so much !!!
+Hello :)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Dinav69&color=yellow&label=Profile-Visits&width=26px)
 
